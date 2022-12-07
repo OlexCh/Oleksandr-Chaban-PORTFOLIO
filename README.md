@@ -31,3 +31,9 @@ Selenium WebDriver - for automated testing of web applications<br/>
 Pycharm - development environment for Python<br/> 
 Markdown<br/> 
 HTML/CSS</h3>
+<br/> 
+<h3>&emsp;I'm glad to invite you to visit my<a href="https://linkedin.com/in/oleksandr-chaban-1656703a/"> LinkedIn page</a></h3>
+<br/> 
+<h4>&emsp;Thank You for attention</h4>
+<h4>&emsp;With best wishes</h4>
+
