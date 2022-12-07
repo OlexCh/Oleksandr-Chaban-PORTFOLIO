@@ -25,7 +25,7 @@ Mantis - bug tracker<br/>
 Trello, Azure Devops - project management<br/> 
 TestRail - test cases management<br/> 
 Chrome DevTools - for testing and to improve bug reports<br/> 
-Git, Git Bash, GitHub<br/> 
+Git, GitHub<br/> 
 Selenium IDE - tool use to support automated testing<br/> 
 Selenium WebDriver - for automated testing of web applications<br/> 
 Pycharm - development environment for Python<br/> 
