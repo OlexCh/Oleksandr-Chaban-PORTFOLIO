@@ -1,5 +1,6 @@
 # PORTFOLIO
-### &emsp; I want to become a QA Engineer because I like making products better.
+##About me
+### &emsp; My name is Oleksandr Chaban. I want to become a QA Engineer because I like making products better.
 
 <h3>&emsp;I have many years of experience in telecommunications
 and financial technology sector.
