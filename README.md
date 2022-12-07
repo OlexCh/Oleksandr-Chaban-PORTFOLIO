@@ -8,14 +8,18 @@ During my work with clients, I realized that clients are interested in reliable 
 quality. I also understand that offering a product that has not been thoroughly
 tested may damage the product owner's reputation and impact sales.<br/>
 Thus, It is crucial to discover the true state of a product and improve it to meet the expectations of the consumer.</h3>
-
+<br/> 
+<br/> 
 <h3>Courses<br/> 
+ <br/> 
 "The Fundamentals of Software Testing" course in Prometheus<br/> 
 "Fundamentals of the software Testing" course in QATestLab<br/> 
 14-day Testing Marathon from Hillel<br/> 
 6-day HTML/CSS Marathon from GoIT<br/> 
-
-Tools<br/> 
+<br/> 
+<br/>  
+Tools<br/>
+<br/>   
 Jira - bug tracker<br/> 
 Mantis - bug tracker<br/> 
 Trello, Azure Devops - project management<br/> 
